@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "First_Robotics")(type "KiCad")(uri "/Users/death/Documents/GitHub/619KiCAD/Symbols/First_Robotics.kicad_sym")(options "")(descr ""))
+  (lib (name "FIRST_sparkmax")(type "KiCad")(uri "/Users/death/Documents/GitHub/619KiCAD/Symbols/FIRST_sparkmax.kicad_sym")(options "")(descr ""))
+)
