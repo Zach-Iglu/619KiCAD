@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "CAN Bus Breakout Reference Schematic")
+    (date "2023-01-12")
+    (rev "1")
+    (company "FRC Team 619")
+  )
+
   (lib_symbols
     (symbol "Wago_Terminal_Block_2:2604-1102" (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -1.27 11.43 0)
